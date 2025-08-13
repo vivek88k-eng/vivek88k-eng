@@ -1,4 +1,8 @@
 ## Hi there 👋
+## Connect with me  
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?&style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/vivekkumar4727)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vivek_88k/)
 
 <!--
 **vivek88k-eng/vivek88k-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
