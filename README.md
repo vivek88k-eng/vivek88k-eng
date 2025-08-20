@@ -1,7 +1,9 @@
 ## Hi there 👋
 ## Connect with me  
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?&style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/vivekkumar4727)  
+## Connect with me
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?&style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kvivekskumar7421)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vivek_88k/)
 
 <!--
